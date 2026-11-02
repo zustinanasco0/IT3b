@@ -7,7 +7,7 @@ require_once(__DIR__ . '/../functions/redirect.php');
 require_once(__DIR__ . '/../functions/sessions.php');
 require_once(__DIR__ . '/../functions/csrf.php');
 
-define('BASE_URL', 'http://localhost/it3b');
+define('BASE_URL', 'http://localhost/IT3B');
 
 define('DB_HOST','localhost');
 define('DB_NAME', 'it3b');
